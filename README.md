@@ -10,7 +10,7 @@ The approach we use for preprocessing of our data of 60001 of 10 different senso
 As for the forth model RF: 
 There are two codes, “Pre-Processing” for pre-processing data with auto-correlation to extract features 
 
-                    , “RF-ModelTraining” for training random forest model on preprocessed data. 
+   “RF-ModelTraining” for training random forest model on preprocessed data. 
 
 Note: pre-processing data takes long time around 4.5 hours. 
 
